@@ -1,0 +1,93 @@
+{
+  "accuracy": 0.8792156862745099,
+  "f1_macro": 0.8245860801966911,
+  "f1_weighted": 0.879529319871764,
+  "precision_macro": 0.8213689980386075,
+  "recall_macro": 0.8286027469740205,
+  "roc_auc_macro": 0.9774768075944756,
+  "roc_auc_weighted": 0.9851739061404122,
+  "per_class": [
+    {
+      "class": "Eczema",
+      "precision": 0.7224489795918367,
+      "recall": 0.759656652360515,
+      "f1": 0.7405857740585774,
+      "support": 466.0
+    },
+    {
+      "class": "Melanoma",
+      "precision": 0.9789029535864979,
+      "recall": 0.9851380042462845,
+      "f1": 0.982010582010582,
+      "support": 942.0
+    },
+    {
+      "class": "Atopic Dermatitis",
+      "precision": 0.6642857142857143,
+      "recall": 0.7209302325581395,
+      "f1": 0.6914498141263941,
+      "support": 258.0
+    },
+    {
+      "class": "Basal Cell Carcinoma",
+      "precision": 0.9267326732673268,
+      "recall": 0.9378757515030061,
+      "f1": 0.9322709163346613,
+      "support": 998.0
+    },
+    {
+      "class": "Melanocytic Nevi",
+      "precision": 0.9718189581554227,
+      "recall": 0.9515050167224081,
+      "f1": 0.9615547106041402,
+      "support": 2392.0
+    },
+    {
+      "class": "Benign Keratosis-like Lesions",
+      "precision": 0.8159509202453987,
+      "recall": 0.8525641025641025,
+      "f1": 0.8338557993730408,
+      "support": 624.0
+    },
+    {
+      "class": "Psoriasis",
+      "precision": 0.757085020242915,
+      "recall": 0.6925925925925925,
+      "f1": 0.723404255319149,
+      "support": 540.0
+    },
+    {
+      "class": "Seborrheic Keratosis",
+      "precision": 0.8333333333333334,
+      "recall": 0.8396946564885496,
+      "f1": 0.8365019011406845,
+      "support": 524.0
+    },
+    {
+      "class": "Tinea Ringworm Candidiasis",
+      "precision": 0.7907949790794979,
+      "recall": 0.7682926829268293,
+      "f1": 0.7793814432989691,
+      "support": 492.0
+    },
+    {
+      "class": "Warts Molluscum Viral Infections",
+      "precision": 0.7523364485981309,
+      "recall": 0.7777777777777778,
+      "f1": 0.7648456057007126,
+      "support": 414.0
+    }
+  ],
+  "roc_auc_per_class": {
+    "Eczema": 0.960452770582219,
+    "Melanoma": 0.9997619852456172,
+    "Atopic Dermatitis": 0.9635390449343938,
+    "Basal Cell Carcinoma": 0.9963269895172185,
+    "Melanocytic Nevi": 0.9960203976485584,
+    "Benign Keratosis-like Lesions": 0.9836002904961061,
+    "Psoriasis": 0.9609267072980153,
+    "Seborrheic Keratosis": 0.9771469063937457,
+    "Tinea Ringworm Candidiasis": 0.9643374744728167,
+    "Warts Molluscum Viral Infections": 0.9726555093560646
+  }
+}

@@ -1,0 +1,6 @@
+Model,Best Val F1,Best Val Acc,Epoch
+Full Model,0.7781,0.8356,10
+Attention Only,0.7695,0.8367,9
+Fusion Only,0.7605,0.8237,10
+ResNet50,0.7373,0.7859,8
+Baseline (B2),0.5804,0.6943,1

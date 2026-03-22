@@ -1,0 +1,11 @@
+Class,Test,Train,Val
+Atopic Dermatitis,258,1958,298
+Basal Cell Carcinoma,998,4652,996
+Benign Keratosis-like Lesions,624,2910,624
+Eczema,466,2424,464
+Melanocytic Nevi,2392,11158,2390
+Melanoma,942,4396,942
+Psoriasis,540,3036,534
+Seborrheic Keratosis,524,2598,572
+Tinea Ringworm Candidiasis,492,2420,492
+Warts Molluscum Viral Infections,414,3378,414
