@@ -147,9 +147,9 @@ skin-disease-detection-platform/
 
 ## 👥 Authors
 
-- **N. Mohitha Reddy** (VIT-AP University)
-- **Surya Sunanda Meesala** (VIT-AP University)
-- **Thota Pavani** (VIT-AP University)
+- **Surya Sunanda Meesala**
+- **N. Mohitha Reddy**
+- **Thota Pavani** 
 
 ---
 
