@@ -149,7 +149,7 @@ skin-disease-detection-platform/
 
 - **Surya Sunanda Meesala**
 - **N. Mohitha Reddy**
-- **Thota Pavani** 
+- **Thokala Pavani** 
 
 ---
 
